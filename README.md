@@ -9,15 +9,21 @@
 
 [TOC]
 
-#The Task
+The Task
+=============
 
-#Requirements
+Requirements
+=============
 
-#Bonus Points
+Bonus Points
+=============
 
-#FAQ
+FAQ
+=============
 
-#Contact Details
+Contact Details
+=============
 
-#Disclaimer
+Disclaimer
+=============
 
