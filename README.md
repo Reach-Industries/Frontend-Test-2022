@@ -15,7 +15,7 @@ Retrieve an array of deviceIds <br />
 
 **Second call**<br />
 https://mockapi.lumi.systems/getdevicedata <br />
-Using deviceId = LumiWifi-dVr<br />
+Using deviceId = LabEye-dVr<br />
 Retrieve the device resources files <br />
 
 **Retrieved Data**<br />
