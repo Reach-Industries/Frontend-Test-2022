@@ -19,6 +19,11 @@ Bonus Points
 **Live Site**<br />
 A self-hosted live site accessible for the reviewing team. 
 
+**Styling**<br />
+Althought not a requirement, sites with html, css styling, and suitable layouts will score higher than those with none.
+
+**Colour Palette**<br />
+![](https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Colour-Palette.png)
 
 FAQ
 =============
