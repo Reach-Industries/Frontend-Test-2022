@@ -18,7 +18,6 @@ address/endpoint/deviceResources <br />
 Using the userId = , orgId = and deviceId = <br />
 Retrieve the device resources files <br />
 
-
 **Retrieved Data**<br />
 There will be two files to retrieve and display, A Video file and a corresponding JSON data file. <br />
 The JSON file contains a <br />
@@ -30,8 +29,11 @@ The JSON file contains a <br />
 <img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/example_json.png?raw=true/>
 </p>
 
-
 **Displaying Data**<br />
+The video file must be displayed in a video player that allows the user to stop and start the video, and must display a frame track bar. <br />
+The corresponding frame data must be displayed on the page for each frame of the video. 
+
+Below is only an example of the possible way to display the data.<br />
 <p align="center">
 <img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Frontend-Test-Example.jpg?raw=true/>
 </p>
