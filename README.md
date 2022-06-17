@@ -6,7 +6,7 @@
 
 The Task
 =============
-A single page application that makes two REST api calls to retrieve and display the associated data.
+A single page application that makes two REST api calls to retrieve two data files, and then display the associated data in an appropriate way.
 
 **First call**<br />
 address/endpoint/devices <br />
