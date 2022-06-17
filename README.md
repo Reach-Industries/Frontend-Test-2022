@@ -12,6 +12,8 @@ Submissions must be built using
 - Typescript
 - React
 
+All sourcecode must be submitted via GitHub, with the repo shared on the career portal questionaire, or submitted as a reply to the career application response email. 
+
 Bonus Points
 =============
 
