@@ -7,6 +7,11 @@
 The Task
 =============
 
+
+<p align="center">
+<img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Frontend-Test-Example.jpg?raw=true/>
+</p>
+
 Requirements
 =============
 Submissions must be built using
