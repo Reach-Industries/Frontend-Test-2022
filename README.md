@@ -60,6 +60,15 @@ Althought not a requirement, sites with html, css styling, and suitable layouts 
 <img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Colour-Palette.png?raw=true/>
 </p>
 
+**Data Display**<br />
+Display the complete history of the sample colour in a single view in a way that corresponds to the video trackbar.
+
+**Login Modal**<br />
+Allow the user to dynamically add the User and Organisation information.
+
+**Device Select**<br />
+Allow the User to select a device from a list returned from the api endpoint.
+
 FAQ
 =============
 **-How Much should I do?**<br />
