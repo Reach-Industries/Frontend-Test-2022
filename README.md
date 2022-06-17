@@ -9,13 +9,13 @@ The Task
 A single page application that makes two REST api calls to retrieve two data files, and then display the associated data in an appropriate way.
 
 **First call**<br />
-address/endpoint/devices <br />
-Using the userId = and orgId = <br />
+https://mockapi.lumi.systems/getdevices <br />
+Using the userId = 100, and orgId = lumi<br />
 Retrieve an array of deviceIds <br />
 
 **Second call**<br />
-address/endpoint/deviceResources <br />
-Using the userId = , orgId = and deviceId = <br />
+https://mockapi.lumi.systems/getdevicedata <br />
+Using the userId = 100, orgId = lumi and deviceId = LumiWifi-dVr<br />
 Retrieve the device resources files <br />
 
 **Retrieved Data**<br />
