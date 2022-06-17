@@ -16,7 +16,8 @@ All sourcecode must be submitted via GitHub, with the repo shared on the career 
 
 Bonus Points
 =============
-**Live Site**
+**Live Site**<br />
+A self-hosted live site accessible for the reviewing team. 
 
 
 FAQ
