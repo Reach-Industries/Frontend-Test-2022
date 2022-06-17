@@ -9,16 +9,26 @@ The Task
 A single page application that makes two REST api calls to retrieve and display the associated data.
 
 **First call**<br />
-address/endpoint/ <br />
+address/endpoint/devices <br />
 Using the userId = and orgId = <br />
-Retrieve a list of deviceIds <br />
+Retrieve an array of deviceIds <br />
 
 **Second call**<br />
-Blah Blah
+address/endpoint/deviceResources <br />
+Using the userId = , orgId = and deviceId = <br />
+Retrieve the device resources files <br />
 
 
 **Retrieved Data**<br />
-Blah Blah
+There will be two files to retrieve and display, A Video file and a corresponding JSON data file. <br />
+The JSON file contains a <br />
+- Bounding box of the sample area labelled "RoI"<br />
+- Frame Array which matches each frame in the video file. 
+- Frame data is contains the average Red, Green, Blue pixel values and a histogram difference value.<br />
+
+<p align="center">
+<img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/example_json.png?raw=true/>
+</p>
 
 
 **Displaying Data**<br />
