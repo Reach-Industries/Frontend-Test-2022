@@ -17,13 +17,13 @@ Bonus Points
 
 FAQ
 =============
-**-How Much should I do?**
+**-How Much should I do?**<br />
   How long is a piece of string? It is totally up to you how much you complete, but the reviewing team will look at quality and quantity when ranking submissions.
 
-**-How Many Times Can I submit?**
+**-How Many Times Can I submit?**<br />
   Once, please just update your GitHub repo, depending on when the submission is reviewed the updated repo might not be seen.
 
-**-Can I use other technologies other than those listed in the Requirements**
+**-Can I use other technologies other than those listed in the Requirements**<br />
   Yes as additional technologies, but due to the nature of the available roles we would like to see the use of JavaScript, TypeScript and React.
 
 Contact Details
@@ -33,8 +33,8 @@ careers@reach.industries
 
 Disclaimer
 =============
-**Minimum Submission Requirements**
+**Minimum Submission Requirements**<br />
   For a submission to guarantee an automatic interview all stages of the task must be complete. Reviewer discretion will be applied. 
 
-**Polite Recruiter Note** 
+**Polite Recruiter Note** <br />
   We currently do not wish to work with any external recruiters or agencies, please do not contact us at this stage as it will jeopardise any opportunity of working together in the future.
