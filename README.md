@@ -24,7 +24,7 @@ Althought not a requirement, sites with html, css styling, and suitable layouts 
 
 **Colour Palette**<br />
 <p align="center">
-<img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Colour-Palette.png/>
+<img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Colour-Palette.png?raw=true/>
 </p>
 
 FAQ
