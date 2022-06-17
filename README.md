@@ -23,7 +23,9 @@ A self-hosted live site accessible for the reviewing team.
 Althought not a requirement, sites with html, css styling, and suitable layouts will score higher than those with none.
 
 **Colour Palette**<br />
+<p align="center">
 ![](https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Colour-Palette.png)
+ </p>
 
 FAQ
 =============
