@@ -8,10 +8,10 @@ The Task
 =============
 A single page application that makes two REST api calls to retrieve and display the associated data.
 
-
 **First call**<br />
-Blah Blah
-
+address/endpoint/ <br />
+Using the userId = and orgId = <br />
+Retrieve a list of deviceIds <br />
 
 **Second call**<br />
 Blah Blah
