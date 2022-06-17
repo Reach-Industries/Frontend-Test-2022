@@ -10,12 +10,12 @@ A single page application that makes two REST api calls to retrieve two data fil
 
 **First call**<br />
 https://mockapi.lumi.systems/getdevices <br />
-Using userId = 100, and orgId = Lumi<br />
+Using userId = "100", and orgId = "Lumi"<br />
 Retrieve an array of deviceIds <br />
 
 **Second call**<br />
 https://mockapi.lumi.systems/getdevicedata <br />
-Using deviceId = LabEye-dVr<br />
+Using deviceId = "LabEye-dVr"<br />
 Retrieve the device resources files <br />
 
 **Retrieved Data**<br />
