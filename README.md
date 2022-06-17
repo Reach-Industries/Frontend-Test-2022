@@ -33,7 +33,7 @@ The JSON file contains a <br />
 The video file must be displayed in a video player that allows the user to stop and start the video, and must display a frame track bar. <br />
 The corresponding frame data must be displayed on the page for each frame of the video. 
 
-Below is only an example of the possible way to display the data.<br />
+Below is only an example of the possible way to display the data and is not a requirement.<br />
 <p align="center">
 <img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Frontend-Test-Example.jpg?raw=true/>
 </p>
