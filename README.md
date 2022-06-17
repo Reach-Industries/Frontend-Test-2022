@@ -45,7 +45,9 @@ Submissions must be built using
 - Typescript
 - React
 
-All sourcecode must be submitted via GitHub, with the repo shared on the career portal questionaire, or submitted as a reply to the career application response email. 
+All sourcecode must be submitted via GitHub, with the repo shared on the career portal questionaire, or submitted as a reply to the career application response email.
+
+Must make the two required queries, display and play the video file, and display the associated frame data.
 
 Bonus Points
 =============
