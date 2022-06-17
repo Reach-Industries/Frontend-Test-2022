@@ -6,13 +6,21 @@
 
 The Task
 =============
-A single page application that makes two REST api calls to retrieve and display the associated data.<br />
+A single page application that makes two REST api calls to retrieve and display the associated data.
+
+
 **First call**<br />
 Blah Blah
+
+
 **Second call**<br />
 Blah Blah
+
+
 **Retrieved Data**<br />
 Blah Blah
+
+
 **Displaying Data**<br />
 <p align="center">
 <img src=https://raw.githubusercontent.com/Reach-Industries/Frontend-Test-2022/main/Frontend-Test-Example.jpg?raw=true/>
